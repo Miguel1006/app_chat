@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351430778235",
+    "project_id": "chat-prada",
+    "storage_bucket": "chat-prada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351430778235:android:7ab500179f535ec30db1de",
+        "android_client_info": {
+          "package_name": "com.example.reto3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351430778235-to54in696dcdoogcuh2vqksol80v99dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzQYUD6SnT_sAhsGM-h80YERffYFi0e2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351430778235-to54in696dcdoogcuh2vqksol80v99dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
